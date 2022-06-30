@@ -28,9 +28,6 @@
 #user-pic {
     width: 30%;
     float: right;
-    margin-top: -12px;
-}
-
-#user-pic img {
+    margin-top: -15px;
     border-radius: 50%;
 }

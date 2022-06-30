@@ -22,15 +22,8 @@
 
 #user-info {
     width: 70%;
-    float: left;
 }
 
 #user-pic {
-    width: 30%;
-    float: right;
-    margin-top: -12px;
-}
 
-#user-pic img {
-    border-radius: 50%;
 }
